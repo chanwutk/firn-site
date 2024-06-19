@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nussarafirn.github.io/firn-site/sitemap.xml
